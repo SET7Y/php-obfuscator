@@ -93,7 +93,7 @@ class User extends Authenticatable
 1. Clone the repository
 
 ```
-git clone https://github.com/your-github-repo/php-obfuscator.git
+git clone https://github.com/SET7Y/php-obfuscator.git
 ```
 
 2. Change to the project directory
